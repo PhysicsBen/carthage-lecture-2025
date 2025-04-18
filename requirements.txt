@@ -1,0 +1,8 @@
+ipykernel
+pandas
+seaborn
+plotly
+bokeh
+altair
+kagglehub
+python-dotenv
