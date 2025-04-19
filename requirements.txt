@@ -6,3 +6,4 @@ bokeh
 altair
 kagglehub
 python-dotenv
+pyyaml
