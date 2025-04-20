@@ -5,5 +5,5 @@ plotly
 bokeh
 altair
 kagglehub
-python-dotenv
 pyyaml
+openpyxl

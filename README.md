@@ -54,6 +54,11 @@ carthage-lecture-2025/
 │   |   ├── field_map.csv
 │   |   ├── field_study_all_years_carthage.csv
 │   |   └── institution_all_years_carthage.csv
+|   ├── documentation/
+│   |   ├── CollegeScorecardDataDictionary.xlsx
+│   |   ├── EarningsDataErrata.pdf
+│   |   ├── FieldOfStudyDataDocumentation.pdf
+│   |   └── InstitutionDataDocumentation.pdf
 |   ├── hackathon_data_prep.ipynb
 |   └── hackathon_readme.ipynb
 ├── README.md
