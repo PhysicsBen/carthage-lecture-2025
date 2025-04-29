@@ -7,3 +7,4 @@ altair
 kagglehub
 pyyaml
 openpyxl
+scipy
